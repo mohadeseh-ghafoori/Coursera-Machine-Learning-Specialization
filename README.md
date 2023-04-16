@@ -1,0 +1,16 @@
+# Coursera-Machine-Learning-Specialization
+## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+- [Week 1](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week1)
+  - [Optional Labs](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week1)
+     - [Model Representation](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week1/C1_W1_Lab02_Model_Representation_Soln.ipynb)
+     - [Cost Function](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week1/C1_W1_Lab03_Cost_function_Soln.ipynb)
+     - [Gradient Descent](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week1/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+
+- [Week 2](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2) 
+    - [Optional Labs](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/optional%20labs)
+      - [Numpy Vectorization](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/optional%20labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
+      - [Multiple Variable Linear Regression](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/optional%20labs/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
+      - [Feature scaling and Learning Rate (Multi-variable)](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/optional%20labs/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
+      - [Feature Engineering and Polynomial Regression](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/optional%20labs/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
+       - [Linear Regression using Scikit-Learn](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/optional%20labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
+    - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week2/Programming%20Assignment)

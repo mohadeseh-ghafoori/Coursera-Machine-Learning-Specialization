@@ -34,3 +34,4 @@
      - [Neurons and Layers](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
      - [Coffee Roasting in Tensorflow](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
      - [CoffeeRoasting NumPy](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+   - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/Programming%20Assignment/C2_W1_Assignment.ipynb)

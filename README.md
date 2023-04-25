@@ -28,4 +28,4 @@
          - [Overfitting](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week3/optional%20labs/C1_W3_Lab08_Overfitting_Soln.ipynb)
          - [Regularization](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week3/optional%20labs/C1_W3_Lab09_Regularization_Soln.ipynb)
     - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week3/Programming%20Assignment)      
-       
+## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)      

@@ -29,3 +29,8 @@
          - [Regularization](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week3/optional%20labs/C1_W3_Lab09_Regularization_Soln.ipynb)
     - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/week3/Programming%20Assignment)      
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)      
+- [Week 1](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Advanced%20Learning%20Algorithms/week1)
+  - [Optional Labs](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Advanced%20Learning%20Algorithms/week1/optional%20labs)
+     - [Neurons and Layers](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+     - [Coffee Roasting in Tensorflow](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+     - [CoffeeRoasting NumPy](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)

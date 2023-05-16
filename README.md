@@ -35,3 +35,12 @@
      - [Coffee Roasting in Tensorflow](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
      - [CoffeeRoasting NumPy](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/optional%20labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
    - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week1/Programming%20Assignment/C2_W1_Assignment.ipynb)
+
+- [Week 2](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Advanced%20Learning%20Algorithms/week2)
+  - [Optional Labs](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Advanced%20Learning%20Algorithms/week2/optional%20labs)
+     - [ReLU activation](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/C2_W2_Relu.ipynb)
+     - [Softmax Function](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/C2_W2_SoftMax.ipynb)
+     - [Multi-class Classification](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/C2_W2_Multiclass_TF.ipynb)
+     - [Derivatives](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/backprop/C2_W2_Derivatives.ipynb)
+     - [Back propagation using a computation graph](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/backprop/C2_W2_Backprop.ipynb)
+   - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/Assignment/C2_W2_Assignment.ipynb)

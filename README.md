@@ -44,3 +44,9 @@
      - [Derivatives](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/backprop/C2_W2_Derivatives.ipynb)
      - [Back propagation using a computation graph](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/optional%20labs/backprop/C2_W2_Backprop.ipynb)
    - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week2/Assignment/C2_W2_Assignment.ipynb)
+
+- [Week 3](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Advanced%20Learning%20Algorithms/week3)
+  - [Optional Labs](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Advanced%20Learning%20Algorithms/week3/optional%20labs)
+     - [Model Evaluation and Selection](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week3/optional%20labs/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
+     - [Diagnosing Bias and Variance](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week3/optional%20labs/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
+   - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week3/Assingment/C2_W3_Assignment.ipynb)

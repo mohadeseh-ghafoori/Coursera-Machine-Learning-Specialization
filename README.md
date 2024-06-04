@@ -57,7 +57,7 @@
      - [Trees Ensemble](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week4/optional%20labs/C2_W4_Lab_02_Tree_Ensemble.ipynb)
    - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/week4/Assignment/C2_W4_Decision_Tree_with_Markdown.ipynb)
 ## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) 
-#### [Certificate Of Completion](https://coursera.org/share/d228986ad94e726e6dc7e8a502e3a494)
+#### [Certificate Of Completion](https://coursera.org/share/3d076e3752f0f57bf45dfc0575ff26d1)
 - [Week 1](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1)
   - [Programming Assignment](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/tree/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1/)
      - [k-means](https://github.com/mohadeseh-ghafoori/Coursera-Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1/Programming%20Assignment%201/C3_W1_KMeans_Assignment.ipynb)
